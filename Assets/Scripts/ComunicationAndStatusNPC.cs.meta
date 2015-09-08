@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f18e358e56c6f314eb87a62a9c8cb69a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ballon_sprite: {instanceID: 0}
+  - ballon_pensamento: {instanceID: 0}
+  - symbol_position: {instanceID: 0}
+  - speak: {instanceID: 0}
+  - thinking: {fileID: 136458, guid: 1869d160cff752c4bad603f23c43d11d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

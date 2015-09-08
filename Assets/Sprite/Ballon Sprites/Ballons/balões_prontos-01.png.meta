@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 9a618c3a393c8274aa44955c63bb3a65
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "bal\xF5es_prontos-01_0"
+    21300002: "bal\xF5es_prontos-01_1"
+    21300004: "bal\xF5es_prontos-01_2"
+    21300006: "bal\xF5es_prontos-01_3"
+    21300008: "bal\xF5es_prontos-01_4"
+    21300010: "bal\xF5es_prontos-01_5"
+    21300012: "bal\xF5es_prontos-01_6"
+    21300014: "bal\xF5es_prontos-01_7"
+    21300016: "bal\xF5es_prontos-01_8"
+    21300018: "bal\xF5es_prontos-01_9"
+    21300020: "bal\xF5es_prontos-01_10"
+    21300022: "bal\xF5es_prontos-01_11"
+    21300024: "bal\xF5es_prontos-01_12"
+    21300026: "bal\xF5es_prontos-01_13"
+    21300028: "bal\xF5es_prontos-01_14"
+    21300030: "bal\xF5es_prontos-01_15"
+    21300032: "bal\xF5es_prontos-01_16"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "bal\xF5es_prontos-01_0"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 341
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "bal\xF5es_prontos-01_1"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 341
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "bal\xF5es_prontos-01_2"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 255
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "bal\xF5es_prontos-01_3"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 254
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "bal\xF5es_prontos-01_4"
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 254
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "bal\xF5es_prontos-01_5"
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 252
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "bal\xF5es_prontos-01_6"
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 252
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "bal\xF5es_prontos-01_7"
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 251
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "bal\xF5es_prontos-01_8"
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 167
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "bal\xF5es_prontos-01_9"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 165
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "bal\xF5es_prontos-01_10"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 162
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "bal\xF5es_prontos-01_11"
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 161
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "bal\xF5es_prontos-01_12"
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 160
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "bal\xF5es_prontos-01_13"
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 159
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "bal\xF5es_prontos-01_14"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 75
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "bal\xF5es_prontos-01_15"
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 73
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "bal\xF5es_prontos-01_16"
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 72
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
